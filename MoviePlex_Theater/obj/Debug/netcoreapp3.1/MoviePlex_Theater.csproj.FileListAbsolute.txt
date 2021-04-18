@@ -1,0 +1,49 @@
+/Users/ashiqrafy/Downloads/Final Project/MoviePlex_Theater/MoviePlex_Theater/bin/Debug/netcoreapp3.1/MoviePlex_Theater.deps.json
+/Users/ashiqrafy/Downloads/Final Project/MoviePlex_Theater/MoviePlex_Theater/bin/Debug/netcoreapp3.1/MoviePlex_Theater.runtimeconfig.json
+/Users/ashiqrafy/Downloads/Final Project/MoviePlex_Theater/MoviePlex_Theater/bin/Debug/netcoreapp3.1/MoviePlex_Theater.runtimeconfig.dev.json
+/Users/ashiqrafy/Downloads/Final Project/MoviePlex_Theater/MoviePlex_Theater/bin/Debug/netcoreapp3.1/MoviePlex_Theater.dll
+/Users/ashiqrafy/Downloads/Final Project/MoviePlex_Theater/MoviePlex_Theater/bin/Debug/netcoreapp3.1/MoviePlex_Theater.pdb
+/Users/ashiqrafy/Downloads/Final Project/MoviePlex_Theater/MoviePlex_Theater/obj/Debug/netcoreapp3.1/MoviePlex_Theater.AssemblyInfoInputs.cache
+/Users/ashiqrafy/Downloads/Final Project/MoviePlex_Theater/MoviePlex_Theater/obj/Debug/netcoreapp3.1/MoviePlex_Theater.AssemblyInfo.cs
+/Users/ashiqrafy/Downloads/Final Project/MoviePlex_Theater/MoviePlex_Theater/obj/Debug/netcoreapp3.1/MoviePlex_Theater.csproj.CoreCompileInputs.cache
+/Users/ashiqrafy/Downloads/Final Project/MoviePlex_Theater/MoviePlex_Theater/obj/Debug/netcoreapp3.1/MoviePlex_Theater.dll
+/Users/ashiqrafy/Downloads/Final Project/MoviePlex_Theater/MoviePlex_Theater/obj/Debug/netcoreapp3.1/MoviePlex_Theater.pdb
+/Users/ashiqrafy/Downloads/Final Project/MoviePlex_Theater/MoviePlex_Theater/obj/Debug/netcoreapp3.1/MoviePlex_Theater.genruntimeconfig.cache
+E:/Conestoga/Sem-2/.NET/Final Project/MoviePlex_Theater/MoviePlex_Theater/bin/Debug/netcoreapp3.1/MoviePlex_Theater.exe
+E:/Conestoga/Sem-2/.NET/Final Project/MoviePlex_Theater/MoviePlex_Theater/bin/Debug/netcoreapp3.1/MoviePlex_Theater.deps.json
+E:/Conestoga/Sem-2/.NET/Final Project/MoviePlex_Theater/MoviePlex_Theater/bin/Debug/netcoreapp3.1/MoviePlex_Theater.runtimeconfig.json
+E:/Conestoga/Sem-2/.NET/Final Project/MoviePlex_Theater/MoviePlex_Theater/bin/Debug/netcoreapp3.1/MoviePlex_Theater.runtimeconfig.dev.json
+E:/Conestoga/Sem-2/.NET/Final Project/MoviePlex_Theater/MoviePlex_Theater/bin/Debug/netcoreapp3.1/MoviePlex_Theater.dll
+E:/Conestoga/Sem-2/.NET/Final Project/MoviePlex_Theater/MoviePlex_Theater/bin/Debug/netcoreapp3.1/MoviePlex_Theater.pdb
+E:/Conestoga/Sem-2/.NET/Final Project/MoviePlex_Theater/MoviePlex_Theater/obj/Debug/netcoreapp3.1/MoviePlex_Theater.AssemblyInfoInputs.cache
+E:/Conestoga/Sem-2/.NET/Final Project/MoviePlex_Theater/MoviePlex_Theater/obj/Debug/netcoreapp3.1/MoviePlex_Theater.AssemblyInfo.cs
+E:/Conestoga/Sem-2/.NET/Final Project/MoviePlex_Theater/MoviePlex_Theater/obj/Debug/netcoreapp3.1/MoviePlex_Theater.csproj.CoreCompileInputs.cache
+E:/Conestoga/Sem-2/.NET/Final Project/MoviePlex_Theater/MoviePlex_Theater/obj/Debug/netcoreapp3.1/MoviePlex_Theater.dll
+E:/Conestoga/Sem-2/.NET/Final Project/MoviePlex_Theater/MoviePlex_Theater/obj/Debug/netcoreapp3.1/MoviePlex_Theater.pdb
+E:/Conestoga/Sem-2/.NET/Final Project/MoviePlex_Theater/MoviePlex_Theater/obj/Debug/netcoreapp3.1/MoviePlex_Theater.genruntimeconfig.cache
+E:/Conestoga/Sem-2/.NET/Final Project/MoviePlex_Theater/MoviePlex_Theater/obj/Debug/netcoreapp3.1/MoviePlex_Theater.csprojAssemblyReference.cache
+/Users/ashiqrafy/Desktop/Conestoga/Sem 2/Dot.Net/Final/MoviePlex_Theater/MoviePlex_Theater/bin/Debug/netcoreapp3.1/MoviePlex_Theater.deps.json
+/Users/ashiqrafy/Desktop/Conestoga/Sem 2/Dot.Net/Final/MoviePlex_Theater/MoviePlex_Theater/bin/Debug/netcoreapp3.1/MoviePlex_Theater.runtimeconfig.json
+/Users/ashiqrafy/Desktop/Conestoga/Sem 2/Dot.Net/Final/MoviePlex_Theater/MoviePlex_Theater/bin/Debug/netcoreapp3.1/MoviePlex_Theater.runtimeconfig.dev.json
+/Users/ashiqrafy/Desktop/Conestoga/Sem 2/Dot.Net/Final/MoviePlex_Theater/MoviePlex_Theater/bin/Debug/netcoreapp3.1/MoviePlex_Theater.dll
+/Users/ashiqrafy/Desktop/Conestoga/Sem 2/Dot.Net/Final/MoviePlex_Theater/MoviePlex_Theater/bin/Debug/netcoreapp3.1/MoviePlex_Theater.pdb
+/Users/ashiqrafy/Desktop/Conestoga/Sem 2/Dot.Net/Final/MoviePlex_Theater/MoviePlex_Theater/obj/Debug/netcoreapp3.1/MoviePlex_Theater.csprojAssemblyReference.cache
+/Users/ashiqrafy/Desktop/Conestoga/Sem 2/Dot.Net/Final/MoviePlex_Theater/MoviePlex_Theater/obj/Debug/netcoreapp3.1/MoviePlex_Theater.AssemblyInfoInputs.cache
+/Users/ashiqrafy/Desktop/Conestoga/Sem 2/Dot.Net/Final/MoviePlex_Theater/MoviePlex_Theater/obj/Debug/netcoreapp3.1/MoviePlex_Theater.AssemblyInfo.cs
+/Users/ashiqrafy/Desktop/Conestoga/Sem 2/Dot.Net/Final/MoviePlex_Theater/MoviePlex_Theater/obj/Debug/netcoreapp3.1/MoviePlex_Theater.csproj.CoreCompileInputs.cache
+/Users/ashiqrafy/Desktop/Conestoga/Sem 2/Dot.Net/Final/MoviePlex_Theater/MoviePlex_Theater/obj/Debug/netcoreapp3.1/MoviePlex_Theater.dll
+/Users/ashiqrafy/Desktop/Conestoga/Sem 2/Dot.Net/Final/MoviePlex_Theater/MoviePlex_Theater/obj/Debug/netcoreapp3.1/MoviePlex_Theater.pdb
+/Users/ashiqrafy/Desktop/Conestoga/Sem 2/Dot.Net/Final/MoviePlex_Theater/MoviePlex_Theater/obj/Debug/netcoreapp3.1/MoviePlex_Theater.genruntimeconfig.cache
+E:\Conestoga\Sem-2\.NET\BhargavDesai_FinalProject\MoviePlex_Theater\MoviePlex_Theater\MoviePlex_Theater\bin\Debug\netcoreapp3.1\MoviePlex_Theater.exe
+E:\Conestoga\Sem-2\.NET\BhargavDesai_FinalProject\MoviePlex_Theater\MoviePlex_Theater\MoviePlex_Theater\bin\Debug\netcoreapp3.1\MoviePlex_Theater.deps.json
+E:\Conestoga\Sem-2\.NET\BhargavDesai_FinalProject\MoviePlex_Theater\MoviePlex_Theater\MoviePlex_Theater\bin\Debug\netcoreapp3.1\MoviePlex_Theater.runtimeconfig.json
+E:\Conestoga\Sem-2\.NET\BhargavDesai_FinalProject\MoviePlex_Theater\MoviePlex_Theater\MoviePlex_Theater\bin\Debug\netcoreapp3.1\MoviePlex_Theater.runtimeconfig.dev.json
+E:\Conestoga\Sem-2\.NET\BhargavDesai_FinalProject\MoviePlex_Theater\MoviePlex_Theater\MoviePlex_Theater\bin\Debug\netcoreapp3.1\MoviePlex_Theater.dll
+E:\Conestoga\Sem-2\.NET\BhargavDesai_FinalProject\MoviePlex_Theater\MoviePlex_Theater\MoviePlex_Theater\bin\Debug\netcoreapp3.1\MoviePlex_Theater.pdb
+E:\Conestoga\Sem-2\.NET\BhargavDesai_FinalProject\MoviePlex_Theater\MoviePlex_Theater\MoviePlex_Theater\obj\Debug\netcoreapp3.1\MoviePlex_Theater.csprojAssemblyReference.cache
+E:\Conestoga\Sem-2\.NET\BhargavDesai_FinalProject\MoviePlex_Theater\MoviePlex_Theater\MoviePlex_Theater\obj\Debug\netcoreapp3.1\MoviePlex_Theater.AssemblyInfoInputs.cache
+E:\Conestoga\Sem-2\.NET\BhargavDesai_FinalProject\MoviePlex_Theater\MoviePlex_Theater\MoviePlex_Theater\obj\Debug\netcoreapp3.1\MoviePlex_Theater.AssemblyInfo.cs
+E:\Conestoga\Sem-2\.NET\BhargavDesai_FinalProject\MoviePlex_Theater\MoviePlex_Theater\MoviePlex_Theater\obj\Debug\netcoreapp3.1\MoviePlex_Theater.csproj.CoreCompileInputs.cache
+E:\Conestoga\Sem-2\.NET\BhargavDesai_FinalProject\MoviePlex_Theater\MoviePlex_Theater\MoviePlex_Theater\obj\Debug\netcoreapp3.1\MoviePlex_Theater.dll
+E:\Conestoga\Sem-2\.NET\BhargavDesai_FinalProject\MoviePlex_Theater\MoviePlex_Theater\MoviePlex_Theater\obj\Debug\netcoreapp3.1\MoviePlex_Theater.pdb
+E:\Conestoga\Sem-2\.NET\BhargavDesai_FinalProject\MoviePlex_Theater\MoviePlex_Theater\MoviePlex_Theater\obj\Debug\netcoreapp3.1\MoviePlex_Theater.genruntimeconfig.cache
